@@ -1,0 +1,15 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="frontend" type="js.build_tools.npm" factoryName="npm">
+    <package-json value="$PROJECT_DIR$/vue-blog/package.json" />
+    <command value="run" />
+    <scripts>
+      <script value="dev" />
+    </scripts>
+    <arguments value="server" />
+    <node-interpreter value="project" />
+    <envs />
+    <method v="2">
+      <option name="LaunchBrowser.Before.Run" url="httt://localhost:8080" />
+    </method>
+  </configuration>
+</component>
